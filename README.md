@@ -51,3 +51,6 @@
 //EXPERIMENT 11 OUTPUT
 ![image](https://user-images.githubusercontent.com/112066270/193862202-7d31d73f-f907-41a2-a809-c642b8e6c353.png)
 ![image](https://user-images.githubusercontent.com/112066270/193862278-aa8d759e-6a63-4786-877c-fbe22369a4f0.png)
+//EXPERIMENT 12 OUTPUT
+![image](https://user-images.githubusercontent.com/112066270/193862707-05af2120-258e-40c6-bc86-a157df89b549.png)
+![image](https://user-images.githubusercontent.com/112066270/193862785-ebccfa5a-d5df-48bb-8786-cece516aee5e.png)
